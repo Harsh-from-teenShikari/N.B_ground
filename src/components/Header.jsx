@@ -6,6 +6,7 @@ const navItems = [
   { label: "Players", path: "/player-dashboard" },
   { label: "Booking", path: "/ground-booking" },
   { label: "Tournaments", path: "/tournaments" },
+  { label: "Matches", path: "/match-management" },
   { label: "Gallery", path: "/gallery" },
   { label: "Contact", path: "/contact" }
 ];

@@ -48,49 +48,49 @@
 - [x] Booking dashboard
 
 ## Phase 6: Tournament Dashboard
-- [ ] Ongoing tournaments
-- [ ] Upcoming tournaments
-- [ ] Completed tournaments
-- [ ] Organize tournament button
-- [ ] Tournament creation form
-- [ ] Tournament detail page
-- [ ] Teams section
-- [ ] Fixtures section
-- [ ] Results section
-- [ ] Points table
-- [ ] Statistics section
+- [x] Ongoing tournaments
+- [x] Upcoming tournaments
+- [x] Completed tournaments
+- [x] Organize tournament button
+- [x] Tournament creation form
+- [x] Tournament detail page
+- [x] Teams section
+- [x] Fixtures section
+- [x] Results section
+- [x] Points table
+- [x] Statistics section
 
 ## Phase 7: Match Management
-- [ ] Match page
-- [ ] Match overview
-- [ ] Match status
-- [ ] Match result
-- [ ] Score display
+- [x] Match page
+- [x] Match overview
+- [x] Match status
+- [x] Match result
+- [x] Score display
 
 ## Phase 8: Live Match Viewing
-- [ ] Watch match button
-- [ ] Add streaming link option
-- [ ] YouTube/Facebook/other link support
-- [ ] Live status display
-- [ ] View match action
+- [x] Watch match button
+- [x] Add streaming link option
+- [x] YouTube/Facebook/other link support
+- [x] Live status display
+- [x] View match action
 
 ## Phase 9: Gallery
-- [ ] Photos section
-- [ ] Training gallery
-- [ ] Match gallery
-- [ ] Events gallery
-- [ ] Awards gallery
-- [ ] Videos section
-- [ ] Highlights
-- [ ] Coaching sessions
-- [ ] Tournament clips
+- [x] Photos section
+- [x] Training gallery
+- [x] Match gallery
+- [x] Events gallery
+- [x] Awards gallery
+- [x] Videos section
+- [x] Highlights
+- [x] Coaching sessions
+- [x] Tournament clips
 
 ## Phase 10: Contact Us
-- [ ] Phone number
-- [ ] Email
-- [ ] Address
-- [ ] Contact layout
-- [ ] Final CTA
+- [x] Phone number
+- [x] Email
+- [x] Address
+- [x] Contact layout
+- [x] Final CTA
 
 ## Phase 11: Final Testing
 - [ ] Desktop responsiveness

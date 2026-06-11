@@ -5,6 +5,7 @@ import { ContactPage } from "./pages/ContactPage.jsx";
 import { GalleryPage } from "./pages/GalleryPage.jsx";
 import { GroundBookingPage } from "./pages/GroundBookingPage.jsx";
 import { HomePage } from "./pages/HomePage.jsx";
+import { MatchManagementPage } from "./pages/MatchManagementPage.jsx";
 import { PlayerDashboardPage } from "./pages/PlayerDashboardPage.jsx";
 import { TournamentsPage } from "./pages/TournamentsPage.jsx";
 
@@ -17,6 +18,7 @@ export default function App() {
         <Route path="/player-dashboard" element={<PlayerDashboardPage />} />
         <Route path="/ground-booking" element={<GroundBookingPage />} />
         <Route path="/tournaments" element={<TournamentsPage />} />
+        <Route path="/match-management" element={<MatchManagementPage />} />
         <Route path="/gallery" element={<GalleryPage />} />
         <Route path="/contact" element={<ContactPage />} />
       </Routes>
