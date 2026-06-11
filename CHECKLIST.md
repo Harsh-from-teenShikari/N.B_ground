@@ -21,31 +21,31 @@
 - [x] Contact CTA
 
 ## Phase 3: About Us Page
-- [ ] Academy story
-- [ ] Vision
-- [ ] Mission
-- [ ] Infrastructure
-- [ ] Achievements
+- [x] Academy story
+- [x] Vision
+- [x] Mission
+- [x] Infrastructure
+- [x] Achievements
 
 ## Phase 4: Player Dashboard
-- [ ] Player profile
-- [ ] Performance overview
-- [ ] Match history
-- [ ] Batting analytics
-- [ ] Bowling analytics
-- [ ] Fielding analytics
-- [ ] Attendance tracking
-- [ ] Coach remarks
-- [ ] Progress tracking
+- [x] Player profile
+- [x] Performance overview
+- [x] Match history
+- [x] Batting analytics
+- [x] Bowling analytics
+- [x] Fielding analytics
+- [x] Attendance tracking
+- [x] Coach remarks
+- [x] Progress tracking
 
 ## Phase 5: Ground Booking System
-- [ ] Live availability calendar
-- [ ] Match booking form
-- [ ] Tournament booking form
-- [ ] Booking conflict prevention
-- [ ] Tournament date blocking
-- [ ] Booking confirmation
-- [ ] Booking dashboard
+- [x] Live availability calendar
+- [x] Match booking form
+- [x] Tournament booking form
+- [x] Booking conflict prevention
+- [x] Tournament date blocking
+- [x] Booking confirmation
+- [x] Booking dashboard
 
 ## Phase 6: Tournament Dashboard
 - [ ] Ongoing tournaments
